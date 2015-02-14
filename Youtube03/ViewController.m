@@ -34,7 +34,6 @@
     // Do any additional setup after loading the view, typically from a nib.
     
     
-    // aaaaa
     
     UITableView *table = [[UITableView alloc]initWithFrame:self.view.bounds];
     [table setDelegate:self];
